@@ -30,8 +30,6 @@ To run the application, ensure the following database schema and data are proper
    - In the terminal, navigate to the project directory:
      ```bash
      cd E*
-
-     second time cd E*
      
      ```
 
