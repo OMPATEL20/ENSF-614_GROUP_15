@@ -26,6 +26,9 @@ To run the application, ensure the following database schema and data are proper
 3. **Open the Project**
    - Open the project in your preferred IDE (e.g., Visual Studio Code or Spring Tool Suite).
    - Also Open the file ENSF_614_Group-15\ENSF--614--ACMEPLEX\src\main\resources\application.properties and enter your Db server details. For db.user and db.password
+  
+   -  [`ENSF_614_Group-15/ENSF--614--ACMEPLEX/src/main/resources/application.properties`](src/main/resources/application.properties)
+   -  
 4. **Navigate to the Project Directory**
    - In the terminal, navigate to the project directory:
      ```bash
