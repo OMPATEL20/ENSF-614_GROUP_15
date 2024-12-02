@@ -21,7 +21,7 @@ To run the application, ensure the following database schema and data are proper
 
 2. **Setup the Database**
    - Open your MySQL database.
-   - Execute the script `QUERIES FOR ACMEPLEX`, which is available in the project structure, to set up the necessary tables and data.
+   - Execute the script `Group15.sql', which is available in the project structure, to set up the necessary tables and data.
  
 3. **Open the Project**
    - Open the project in your preferred IDE (e.g., Visual Studio Code or Spring Tool Suite).
