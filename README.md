@@ -25,8 +25,7 @@ To run the application, ensure the following database schema and data are proper
  
 3. **Open the Project**
    - Open the project in your preferred IDE (e.g., Visual Studio Code or Spring Tool Suite).
-   - Also Open the file [`ENSF_Group-15/src/main/resources/application.properties`](src/main/resources/application.properties) and enter your Db server details. For db.user and db.password
-  
+   - Also Open the file [`ENSF_Group-15/src/main/resources/application.properties`](src/main/resources/application.properties) and enter your Db server details. Enter db.user and db.password
    -  
    -  
 4. **Navigate to the Project Directory**
